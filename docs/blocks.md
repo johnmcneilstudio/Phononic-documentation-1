@@ -2,32 +2,31 @@
 
 > In this section you can configure all the static pages across the site
 
- * ------ Alternating Blocks
- * ------ Application Cards
- * ------ Benefits
- * ------ Blockquote
- * ------ Carousel
- * ------ CTA Section
- * ------ Employees
- * Equation
+ * Alternating Blocks
+ * Application Cards
+ * Benefits
+ * Blockquote
+ * Carousel
+ * CTA Section
+ * Employees
  * Equation with animations
- * ------ FAQ
- * ------ General Form
- * ------ Hero (BG Image)
- * ------ Hero (Technology)
- * ------ Homepage Hero
- * ------ How to buy
- * ------ Images
- * ------ Large Icon List
- * ------ Large Icon List with animations
+ * FAQ
+ * General Form
+ * Hero (BG Image)
+ * Hero (Technology)
+ * Homepage Hero
+ * How to buy
+ * Images
+ * Large Icon List
+ * Large Icon List with animations
  * Possibilites
- * ------ Product List
- * ------ Resources
- * ------ Small Icon List
- * ------ Standard Cards
- * ------ Sub-menu
- * ------ Timeline
- * ------ Wide Cards
+ * Product List
+ * Resources
+ * Small Icon List
+ * Standard Cards
+ * Sub-menu
+ * Timeline
+ * Wide Cards
  
  
  
@@ -212,21 +211,6 @@
 
 
 -----------------------------------
- ### Equation
- 
- 
- This is a Block that renders application cards on the page
- 
- __Options:__
- 
-
- 
- __View:__
-  
- 
-
-
------------------------------------
  ### Equation with Animations
  
  
@@ -234,11 +218,20 @@
  
  __Options:__
  
+* Title - The title of the equation block section
+* Subhead - The subheading of the equation block section
+* Items - Repeater field that represents individual equation items
+    * Select animation - Dropdown that you can choose from a set of pre-defined animations for each item (7 in total)
+    * Title - The title of each individual item
+* Select animation - This one is used to choose the animation for the equals sign item
+* Equals title - The title of the equals sign item
 
+<iframe src="https://share.getcloudapp.com/geur9PpO?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
  
+ <iframe src="https://share.getcloudapp.com/ApuOpgmR?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 -----------------------------------
@@ -480,9 +473,18 @@
  
  __Options:__
  
+ * Title - The title of the block section
+ * Title Color - The color of the main title. It can be either dark or light
+ * Items - Repeater field that represents each individual possibilities item
+    * Title - The title of the item
+    * Text - The text of the item
+ 
+ 
+ <iframe src="https://share.getcloudapp.com/o0uQnJ8Q?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
+  <iframe src="https://share.getcloudapp.com/o0uQnJ6z?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
   
 
 -----------------------------------
