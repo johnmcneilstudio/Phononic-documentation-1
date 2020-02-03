@@ -265,10 +265,18 @@
  
  __Options:__
  
-
+ * Title - The title of the block
+ * Subhead - The subhead of the block
+ * Form ID - The ID oof the form to show. The ID of the form can be retrieved from "Forms -> Forms" in the admin section.
+ * Form Style - The style of the form. It can be either dark or light
+ * Form width - The width of the form. It can be either wide or narrow
+ 
+<iframe src="https://share.getcloudapp.com/o0uQnYLO?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
+ <iframe src="https://share.getcloudapp.com/nOum0KQ7?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/E0uE0XJ0?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  
 -----------------------------------
