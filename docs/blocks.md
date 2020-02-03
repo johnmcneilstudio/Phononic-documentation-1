@@ -19,13 +19,12 @@
  * ------ Homepage Hero
  * ------ How to buy
  * ------ Images
- * Large Icon List
- * Large Icon List with animations
+ * ------ Large Icon List
+ * ------ Large Icon List with animations
  * Possibilites
- * Product List
+ * ------ Product List
  * ------ Resources
- * Small Hero
- * Small Icon List
+ * ------ Small Icon List
  * ------ Standard Cards
  * ------ Sub-menu
  * Timeline
@@ -542,21 +541,6 @@
 
 
 -----------------------------------
- ### Small Hero
- 
- 
- This is a Block that renders application cards on the page
- 
- __Options:__
- 
-
- 
- __View:__
-  
-
-
-
------------------------------------
  ### Small Icon List
  
  
@@ -567,6 +551,11 @@
  * Title - The main title of the block section
  * Columns - The number of items shown per row on bigger screen sizes. It can be either 2 or 3
  * Style - The style of the block (it can be either light or dark)
+ * Items - This is a repeater field that represents each individual list item
+     * Icon - The icon of the list item
+     * Title - The title of the list item
+     * Text - The main text of the list item
+     * CTA - The cta/link of the list item (optional)
  
  <iframe src="https://share.getcloudapp.com/Jru7rOA2?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
