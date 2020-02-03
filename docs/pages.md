@@ -1,3 +1,6 @@
+
+
+
 # Pages Settings
 
 > In this section you can configure all the static pages across the site
@@ -19,4 +22,3 @@ You can learn more about Gutenberg in the following links:
 * https://wordpress.org/gutenberg/
 * https://www.codeinwp.com/blog/wordpress-gutenberg-guide/
 * https://kinsta.com/blog/gutenberg-wordpress-editor/
-
