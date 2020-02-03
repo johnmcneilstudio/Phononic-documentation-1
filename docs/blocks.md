@@ -4,6 +4,7 @@
 
  * Alternating Blocks
  * Application Cards
+ * Benefits
  * Blockquote
  * Carousel
  * CTA Section
@@ -30,8 +31,8 @@
  * Small Icon List
  * Standard Cards
  * Sub-menu
- * Text List
  * Timeline
+ * Wide Cards
  
  
  
@@ -94,6 +95,35 @@
  __View:__
   
  <iframe src="https://share.getcloudapp.com/8LuwL9x1?embed=true" width="400" height="560" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+
+-----------------------------------
+ ### Benefits
+ 
+ 
+ This is a Block that renders benefits on the page
+ 
+ __Options:__
+ 
+ 
+ * Title - The main title of the benefits section
+ * Columns - How many items to show per row on larger screens (either 2 or 3)
+ * Items - A repeater field that represents an application card item
+    * Title - The title of the benefits item
+    * Text - The main text of the benefits item
+    * CTA - The cta/link of the benefits item (optional)
+ * Has CTA - If the benefits section has a CTA at the bottom of the section
+ * CTA Text - The text of the bottom CTA (shows when Has CTA is enabled)  
+ * CTA Link - The link of the bottom CTA (shows when Has CTA is enabled)
+ * Style - The general style of the benefits section. It can be either light or dark 
+ 
+ <iframe src="https://share.getcloudapp.com/RBuXQmZQ?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+
+ 
+ __View:__
+  
+ <iframe src="https://share.getcloudapp.com/nOum0XLb?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 -----------------------------------
@@ -289,12 +319,15 @@
  
  __Options:__
  
-
+ * Media Type - It can be either Image or Video.
+ * Video File - This option is visible when the "Media Type" is set to video and provides a file uploaded option to add a self-hosted video on the site.
+ * Image - This option is visible when the "Media Type" is set to image and provides an image uploader field to add a BG image to the Hero 
+ 
+<iframe src="https://share.getcloudapp.com/nOum0Xjz?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
- 
-
+ <iframe src="https://share.getcloudapp.com/Koueo1Oy?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 -----------------------------------
  ### Homepage Hero
@@ -304,7 +337,7 @@
  
  __Options:__
  
-
+ 
  
  __View:__
   
@@ -405,11 +438,10 @@
  ### Possibilities
  
  
- This is a Block that renders application cards on the page
+ This is a Block that renders possibili cards on the page
  
  __Options:__
  
-
  
  __View:__
   
@@ -554,15 +586,19 @@
 -----------------------------------
  ### Sub-menu 
  
- This is a Block that renders application cards on the page
+ This is a Block that renders sub-menu on the page
  
  __Options:__
  
+ * Items - A repeater field that represents each individual item
+    * Page - Link field that you can choose the page that you want to connect to each individual sub-menu link
 
+ <iframe src="https://share.getcloudapp.com/o0uQnXKj?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
  
  __View:__
   
-
+<iframe src="https://share.getcloudapp.com/xQu01xR4?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 -----------------------------------
@@ -579,22 +615,6 @@
   
 
 
-
------------------------------------
- ### Text List
- 
- 
- This is a Block that renders application cards on the page
- 
- __Options:__
- 
-
- 
- __View:__
-  
-
-
-
 -----------------------------------
  ### Timeline
  
@@ -608,3 +628,36 @@
  __View:__
   
 
+
+
+-----------------------------------
+ ### Wide Cards
+ 
+ 
+ This is a Block that renders wide cards on the page
+ 
+ __Options:__
+ 
+ * Title - The title of the possibilities section
+ * Subhead - The subheading of the possibilities section
+ * Items - A repeater field that represents an individual item
+      * Title - The title of the benefits item
+      * Text - The main text of the benefits item
+      * CTA - The cta/link of the benefits item (optional)
+      * Media Type - It can be either Image or Video
+      * Image - This is the image of the item. This option is visible when the "Media Type" is set to "Image"
+      * Video file (media library) - This is the video of the item. This option is visible when the "Media Type" is set to "Video". This option is used when we want to use a self-hosted video from our platform.
+      * Video URL (link) - This is the video of the item. This option is visible when the "Media Type" is set to "Video". This option is used when we want to use a video from an external source.
+      * Poster Image - This is the poster image that is used when a video is not available for a specific device.
+      * Media Position - This option controls the alignment of the media. It can be either left or right.
+      * Has CTA - If the benefits section has a CTA at the bottom of the section
+      * CTA Text - The text of the bottom CTA (shows when Has CTA is enabled)  
+      * CTA Link - The link of the bottom CTA (shows when Has CTA is enabled)
+  
+ <iframe src="https://share.getcloudapp.com/P8uYA7jB?embed=true" width="575" height="620" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+  
+ 
+ __View:__
+  
+
+<iframe src="https://share.getcloudapp.com/kpumjWJP?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
