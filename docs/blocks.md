@@ -1,22 +1,41 @@
-# Pages Settings
+# Gutenberg Blocks (custom)
 
 > In this section you can configure all the static pages across the site
 
 
-To configure all the other pages of the site, you just have to navigate to `Pages -> All Pages` and just choose the page that you want to modify.
-
-If you want to create a new page just navigate to `Pages -> Add New`
-
-<iframe src="https://share.getcloudapp.com/6quLqPOZ?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
-
-The editing/publishing experience of the site uses the new WordPress Editor named `Gutenberg` which provides a better publishing experience over the old WordPress WYSIWYG Editor.
-
-<iframe src="https://share.getcloudapp.com/bLuG7wzW?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
-
-
-You can learn more about Gutenberg in the following links:  
-
-* https://wordpress.org/gutenberg/
-* https://www.codeinwp.com/blog/wordpress-gutenberg-guide/
-* https://kinsta.com/blog/gutenberg-wordpress-editor/
-
+ Block: 3-Column Cards
+ Block: Alternating Blocks
+ Block: Application Cards
+ Block: Background Image Cards
+ Block: Blockquote
+ Block: Carousel
+ Block: CTA Section
+ Block: Employees
+ Block: Equation
+ Block: Equation with animations
+ Block: FAQ
+ Block: General Form
+ Block: Hero (BG Image)
+ Block: Hero (Gradient)
+ Block: Hero (Technology)
+ Block: Homepage Hero
+ Block: How to buy
+ Block: Icon animations
+ Block: Images
+ Block: Inset Cards
+ Block: Large Icon List
+ Block: Large Icon List with animations
+ Block: Options List
+ Block: Possibilites
+ Block: Product Hero
+ Block: Product List
+ Block: Resources
+ Block: Small Hero
+ Block: Small Icon List
+ Block: Specifications
+ Block: Standard Cards
+ Block: Sub-menu
+ Block: Table
+ Block: Text List
+ Block: Timeline
+ 
