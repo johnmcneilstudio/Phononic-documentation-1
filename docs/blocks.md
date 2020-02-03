@@ -16,7 +16,7 @@
  * Hero
  * ------ Hero (BG Image)
  * ------ Hero (Technology)
- * Homepage Hero
+ * ------ Homepage Hero
  * ------ How to buy
  * ------ Images
  * Large Icon List
@@ -30,7 +30,6 @@
  * ------ Sub-menu
  * Timeline
  * ------ Wide Cards
- 
  
  
  
@@ -427,10 +426,22 @@
  ### Large Icon List
  
  
- This is a Block that renders application cards on the page
+ This is a Block that renders large icon list on the page
  
  __Options:__
  
+ 
+ * Items - This field is a repeater that represents each individual item
+      * Icon - The icon for the item
+      * Title - The title of the item
+      * Text - The text of the item
+      * CTA - The CTA of the item
+  * Style - The style of the block. It can be either black, light or dark
+  * Text Size - The size of the list items text. It can be either large or small
+  * CTA - The CTA of the block
+ 
+ 
+ <iframe src="https://share.getcloudapp.com/L1uk1D71?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
  
  __View:__
@@ -442,15 +453,24 @@
  ### Large Icon List with animations
  
  
- This is a Block that renders application cards on the page
+ This is a Block that renders large icon list with animations on the page
  
  __Options:__
  
+ * Items - This field is a repeater that represents each individual item
+     * Select animation - Select between the pre-defined animations (7 in total)
+     * Title - The title of the item
+     * Text - The text of the item
+     * CTA - The CTA of the item
+ * Style - The style of the block. It can be either black, light or dark
+ * Text Size - The size of the list items text. It can be either large or small
+ * CTA - The CTA of the block
 
+ <iframe src="https://share.getcloudapp.com/Jru7rpXK?embed=true" width="575" height="700" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
- 
+ <iframe src="https://share.getcloudapp.com/bLuG7lm6?embed=true" width="575" height="580" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 -----------------------------------
