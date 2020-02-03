@@ -2,37 +2,34 @@
 
 > In this section you can configure all the static pages across the site
 
- * Alternating Blocks
- * Application Cards
- * Benefits
- * Blockquote
- * Carousel
- * CTA Section
- * Employees
+ * ------ Alternating Blocks
+ * ------ Application Cards
+ * ------ Benefits
+ * ------ Blockquote
+ * ------ Carousel
+ * ------ CTA Section
+ * ------ Employees
  * Equation
  * Equation with animations
  * FAQ
  * General Form
- * Hero (BG Image)
- * Hero (Gradient)
- * Hero (Technology)
+ * Hero
+ * ------ Hero (BG Image)
+ * ------ Hero (Technology)
  * Homepage Hero
- * How to buy
- * Images
- * Inset Cards
+ * ------ How to buy
+ * ------ Images
  * Large Icon List
  * Large Icon List with animations
- * Options List
  * Possibilites
- * Product Hero
  * Product List
- * Resources
+ * ------ Resources
  * Small Hero
  * Small Icon List
- * Standard Cards
- * Sub-menu
+ * ------ Standard Cards
+ * ------ Sub-menu
  * Timeline
- * Wide Cards
+ * ------ Wide Cards
  
  
  
@@ -275,6 +272,44 @@
  __View:__
   
  
+ 
+-----------------------------------
+ ### Homepage Hero
+ 
+ 
+ This is a Block that renders homepage hero block on the page
+ 
+ __Options:__
+ 
+  * Headline - The headline of the Hero block
+  * Subhead - The subheading of the Hero block
+  * Background type - This option can be either Image or Video
+  * Background Image - The image that is used as a BG image of the Hero block and is enabled when the "background type" is set to image
+  * Background Video - This is a file uploader that is used to load the video on the homepage hero and is enabled when the "background type" is set to video
+  * Background Video Width - This is the background video width and is enabled when the "background type" is set to video
+  * Background Video Height - This is the background video height and is enabled when the "background type" is set to video
+  
+
+ <iframe src="https://share.getcloudapp.com/BluNlR66?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+ __View:__
+  
+ <iframe src="https://share.getcloudapp.com/p9u5qLDo?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+
+ 
+-----------------------------------
+ ### Hero
+ 
+ 
+ This is a Block that renders application cards on the page
+ 
+ __Options:__
+ 
+
+ 
+ __View:__
+  
+ 
 
 
 -----------------------------------
@@ -295,20 +330,6 @@
  __View:__
  
 <iframe src="https://share.getcloudapp.com/BluNlojG?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
-
------------------------------------
- ### Hero (Gradient)
- 
- 
- This is a Block that renders application cards on the page
- 
- __Options:__
- 
-
- 
- __View:__
-  
- 
 
 
 -----------------------------------
@@ -401,20 +422,6 @@
  
 <iframe src="https://share.getcloudapp.com/YEudnD8X?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
------------------------------------
- ### Inset Cards
- 
- 
- This is a Block that renders application cards on the page
- 
- __Options:__
- 
-
- 
- __View:__
-  
- 
-
 
 -----------------------------------
  ### Large Icon List
@@ -447,21 +454,6 @@
 
 
 -----------------------------------
- ### Options List
- 
- 
- This is a Block that renders application cards on the page
- 
- __Options:__
- 
-
- 
- __View:__
-  
- 
-
-
------------------------------------
  ### Possibilities
  
  
@@ -472,23 +464,7 @@
  
  __View:__
   
-
-
-
------------------------------------
- ### Product Hero
- 
- 
- This is a Block that renders application cards on the page
- 
- __Options:__
- 
-
- 
- __View:__
   
-
-
 
 -----------------------------------
  ### Product List
