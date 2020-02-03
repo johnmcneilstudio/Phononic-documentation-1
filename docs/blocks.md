@@ -352,27 +352,54 @@
  
  __Options:__
  
-
+ * Style - The style of the block. It can be either light or dark
+ * CTA Button Text - The button text of the CTA 
+ * Title - The title of the block
+ * Subhead - The subheading of the block
+ * Items per row - The number of items per row.
+ * Item type - This option can be either distributor or option
+ * If "distributor" is enabled then the below field are visible
+    * Logo - The logo of each individual item
+    * Title - The title of each individual item
+    * Website - The website of each individual item
+ * If "option" is enabled then the below field are visible
+    * Title - The title of each individual item
+    * Description - The description of each individual item
+    * Link - The link of each individual item
+ * Show form - A toggle field that shows a form inside the block. If this option is enabled then the field below are visible
+    * Form Title - The title of the form
+    * Form ID - The ID of the form. You can retrieve the ID of the form that you want to use from "Forms -> Forms" in the admin section.
+ * Text above CTA - The text above the CTA
+ * CTA - The CTA shown at the bottom of the block   
+ 
+<iframe src="https://share.getcloudapp.com/xQu01xy8?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
  
+ <iframe src="https://share.getcloudapp.com/DOuvOkR0?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 -----------------------------------
  ### Images
  
  
- This is a Block that renders application cards on the page
+ This is a Block that renders a set of images side-by-side 
  
  __Options:__
  
-
+ * Items - The repeater field that represents each individual image
+    * Image - The image of each item
  
+ 
+ <iframe src="https://share.getcloudapp.com/rRuLZ5XR?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ 
+
+
  __View:__
   
  
-
+<iframe src="https://share.getcloudapp.com/YEudnD8X?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 -----------------------------------
  ### Inset Cards
