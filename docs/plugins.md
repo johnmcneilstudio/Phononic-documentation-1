@@ -138,11 +138,7 @@ https://timber.github.io/docs/getting-started/setup/
 ------------------------------------
 ### WP All Import Pro
 
-The most powerful solution for importing XML and CSV files to WordPress. Import to Posts, Pages, and Custom Post Types. Support for imports that run on a schedule, ability to update existing imports, and much more.
-
-You can de-activate this plugin as it is not needed anymore. This plugin was used to move all the required content from local environments to our staging environments.
-You can always use this plugin if you want to make any import/export between environments and your hosting provider doesn't provide you an easy way to copy environments.
-
+This plugin is being used to import Uberflip content as posts. This is to allow this content to show up in search results on wordpress. The posts themselves don't have any template associated with them - if you view them, they redirect to the original page in uberflip. The importing happens automatically using cron jobs.
 
 
 

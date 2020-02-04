@@ -134,6 +134,7 @@ Please note that there is a checkbox on this section named `Show Social Media Ic
 ### Additional CSS
 --------------------
 
+
 This section is used in case you want to override some CSS of the site and you don't want to mess with theme files.
 Due to the reason that the CSS on the site is compiled into a minified version, it is always recommended if you are not a theme developer or WordPress expert in general, to not touch those files.
 
@@ -144,3 +145,13 @@ Here you can find some useful docs on how to add additional css to your site:
 * https://en.support.wordpress.com/custom-design/editing-css/
 * https://themeisle.com/blog/css-in-wordpress/
 * https://www.hostinger.com/tutorials/wordpress-custom-css
+
+
+### Uberflip Settings
+----------------------
+
+
+Use this section to set the titles & icons for uberflip cards (resources). Uberflip cards will look for a matching tag on the item and use the correlated title and icon. The first item in the list is used as the default if no matching tags are found.
+
+
+<iframe src="https://share.getcloudapp.com/04ugBNXx?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
