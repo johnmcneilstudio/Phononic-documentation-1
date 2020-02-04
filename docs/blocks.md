@@ -28,7 +28,7 @@
  * Timeline
  * Wide Cards
  
- 
+
  
  -------------------------------------
  ### General Options for all Blocks
@@ -612,20 +612,6 @@
  __View:__
   
 <iframe src="https://share.getcloudapp.com/xQu01xR4?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
-
-
------------------------------------
- ### Possibilities
- 
- 
- This is a Block that renders application cards on the page
- 
- __Options:__
- 
-
- 
- __View:__
-  
 
 
 -----------------------------------
