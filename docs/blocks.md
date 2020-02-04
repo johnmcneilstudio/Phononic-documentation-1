@@ -81,7 +81,7 @@
  
  
 
-<iframe src="https://share.getcloudapp.com/wbukE8kJ?embed=true" width="400" height="600" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/wbukE8kJ?embed=true" width="300" height="1100" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  
  __View:__
@@ -109,7 +109,7 @@
  * CTA Link - The link of the bottom CTA (shows when Has CTA is enabled)
  * Style - The general style of the benefits section. It can be either light or dark 
  
- <iframe src="https://share.getcloudapp.com/RBuXQmZQ?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/RBuXQmZQ?embed=true" width="575" height="480" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
 
  
@@ -130,13 +130,13 @@
  * Quote - The main text/quote
  * Source - The source of the blockquote (optional) 
  
- <iframe src="https://share.getcloudapp.com/eDu9dglL?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/eDu9dglL?embed=true" width="575" height="700" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
 
  
  __View:__
   
- <iframe src="https://share.getcloudapp.com/llu4Gkdq?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/llu4Gkdq?embed=true" width="575" height="240" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 -----------------------------------
@@ -154,11 +154,11 @@
      * Icon - The icon of the carousel
      * CTA - The cta/link of the carousel (optional)
  
-<iframe src="https://share.getcloudapp.com/7KuyKAwb?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/7KuyKAwb?embed=true" width="575" height="1260" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
-  <iframe src="https://share.getcloudapp.com/yAuL50nz?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+  <iframe src="https://share.getcloudapp.com/yAuL50nz?embed=true" width="575" height="300" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
 
 
@@ -174,14 +174,14 @@
  * Style - The background style of the section. Can be either light (white background) or gradient (light blue/blue gradient) 
  * CTA - The CTA of the CTA section. Based on the style option above, it can be either white or light blue.
  
- <iframe src="https://share.getcloudapp.com/kpumj6X0?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/kpumj6X0?embed=true" width="575" height="840" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
 
  
  __View:__
   
  <iframe src="https://share.getcloudapp.com/llu4GkqO?embed=true" width="575" height="200" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
-<iframe src="https://share.getcloudapp.com/GGuAGEZd?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/GGuAGEZd?embed=true" width="575" height="200" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 -----------------------------------
  ### Employees
@@ -205,7 +205,7 @@
  
  __View:__
   
-  <iframe src="https://share.getcloudapp.com/geur9dlG?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+  <iframe src="https://share.getcloudapp.com/geur9dlG?embed=true" width="575" height="360" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
 
 
@@ -225,12 +225,12 @@
 * Select animation - This one is used to choose the animation for the equals sign item
 * Equals title - The title of the equals sign item
 
-<iframe src="https://share.getcloudapp.com/geur9PpO?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/geur9PpO?embed=true" width="575" height="1200" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
  
- <iframe src="https://share.getcloudapp.com/ApuOpgmR?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/ApuOpgmR?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 -----------------------------------
@@ -247,12 +247,12 @@
     * Question - The question of the FAQ item
     * Answer - The answer of the FAQ item
    
- <iframe src="https://share.getcloudapp.com/BluNlb8P?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/BluNlb8P?embed=true" width="575" height="1000" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  
  __View:__
   
- <iframe src="https://share.getcloudapp.com/X6uDw7xO?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/X6uDw7xO?embed=true" width="575" height="250" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 -----------------------------------
@@ -269,12 +269,12 @@
  * Form Style - The style of the form. It can be either dark or light
  * Form width - The width of the form. It can be either wide or narrow
  
-<iframe src="https://share.getcloudapp.com/o0uQnYLO?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/o0uQnYLO?embed=true" width="575" height="840" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
- <iframe src="https://share.getcloudapp.com/nOum0KQ7?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
- <iframe src="https://share.getcloudapp.com/E0uE0XJ0?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/nOum0KQ7?embed=true" width="575" height="360" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/E0uE0XJ0?embed=true" width="575" height="360" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  
 -----------------------------------
@@ -294,7 +294,7 @@
   * Background Video Height - This is the background video height and is enabled when the "background type" is set to video
   
 
- <iframe src="https://share.getcloudapp.com/BluNlR66?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/BluNlR66?embed=true" width="575" height="500" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
@@ -314,12 +314,12 @@
  * Subhead - The subheading of the Hero block
  * Image - The image that is used as a BG image of the Hero block
  
-<iframe src="https://share.getcloudapp.com/GGuAGEmB?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/GGuAGEmB?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
  
  __View:__
  
-<iframe src="https://share.getcloudapp.com/BluNlojG?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/BluNlojG?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 -----------------------------------
@@ -334,25 +334,11 @@
  * Video File - This option is visible when the "Media Type" is set to video and provides a file uploaded option to add a self-hosted video on the site.
  * Image - This option is visible when the "Media Type" is set to image and provides an image uploader field to add a BG image to the Hero 
  
-<iframe src="https://share.getcloudapp.com/nOum0Xjz?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/nOum0Xjz?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
- <iframe src="https://share.getcloudapp.com/Koueo1Oy?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
-
------------------------------------
- ### Homepage Hero
- 
- 
- This is a Block that renders application cards on the page
- 
- __Options:__
- 
- 
- 
- __View:__
-  
- 
+ <iframe src="https://share.getcloudapp.com/Koueo1Oy?embed=true" width="575" height="360" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 -----------------------------------
@@ -383,12 +369,12 @@
  * Text above CTA - The text above the CTA
  * CTA - The CTA shown at the bottom of the block   
  
-<iframe src="https://share.getcloudapp.com/xQu01xy8?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/xQu01xy8?embed=true" width="575" height="840" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
  
- <iframe src="https://share.getcloudapp.com/DOuvOkR0?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/DOuvOkR0?embed=true" width="575" height="280" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 -----------------------------------
@@ -403,14 +389,14 @@
     * Image - The image of each item
  
  
- <iframe src="https://share.getcloudapp.com/rRuLZ5XR?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/rRuLZ5XR?embed=true" width="575" height="820" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
 
 
  __View:__
   
  
-<iframe src="https://share.getcloudapp.com/YEudnD8X?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/YEudnD8X?embed=true" width="575" height="240" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 -----------------------------------
@@ -432,11 +418,8 @@
   * CTA - The CTA of the block
  
  
- <iframe src="https://share.getcloudapp.com/L1uk1D71?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/L1uk1D71?embed=true" width="575" height="1180" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
- 
- __View:__
-  
  
 
 
@@ -457,7 +440,7 @@
  * Text Size - The size of the list items text. It can be either large or small
  * CTA - The CTA of the block
 
- <iframe src="https://share.getcloudapp.com/Jru7rpXK?embed=true" width="575" height="700" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/Jru7rpXK?embed=true" width="575" height="740" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
@@ -479,11 +462,11 @@
     * Text - The text of the item
  
  
- <iframe src="https://share.getcloudapp.com/o0uQnJ8Q?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/o0uQnJ8Q?embed=true" width="575" height="1000" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
-  <iframe src="https://share.getcloudapp.com/o0uQnJ6z?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+  <iframe src="https://share.getcloudapp.com/o0uQnJ6z?embed=true" width="575" height="240" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
   
 
 -----------------------------------
@@ -503,11 +486,11 @@
  
 
 
-<iframe src="https://share.getcloudapp.com/7KuyKqw7?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/7KuyKqw7?embed=true" width="575" height="640" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
-<iframe src="https://share.getcloudapp.com/BluNld8Q?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/BluNld8Q?embed=true" width="575" height="360" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 ⚠️ Please note that the numbering comes programmatically.
 
@@ -531,13 +514,13 @@
  
  
 
- <iframe src="https://share.getcloudapp.com/12uD2LyE?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/12uD2LyE?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  
  __View:__
   
  
- <iframe src="https://share.getcloudapp.com/nOum0XEK?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/nOum0XEK?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 
@@ -558,11 +541,11 @@
      * Text - The main text of the list item
      * CTA - The cta/link of the list item (optional)
  
- <iframe src="https://share.getcloudapp.com/Jru7rOA2?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/Jru7rOA2?embed=true" width="575" height="780" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
-<iframe src="https://share.getcloudapp.com/2NurNzwL?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/2NurNzwL?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 -----------------------------------
@@ -588,12 +571,12 @@
      * Icon text - The icon that goes side by side with the text. This option is enabled once the "Type" option is set to Text
      * Logo - The logo of the card. This option is enabled once the "Type" option is set to Logo
  
-<iframe src="https://share.getcloudapp.com/eDu9dXQe?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/eDu9dXQe?embed=true" width="575" height="540" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
  __View:__
   
-<iframe src="https://share.getcloudapp.com/9ZuNZmym?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/9ZuNZmym?embed=true" width="575" height="320" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 -----------------------------------
@@ -606,12 +589,12 @@
  * Items - A repeater field that represents each individual item
     * Page - Link field that you can choose the page that you want to connect to each individual sub-menu link
 
- <iframe src="https://share.getcloudapp.com/o0uQnXKj?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/o0uQnXKj?embed=true" width="575" height="300" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  
  __View:__
   
-<iframe src="https://share.getcloudapp.com/xQu01xR4?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/xQu01xR4?embed=true" width="575" height="350" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 -----------------------------------
@@ -627,11 +610,11 @@
     * Title - The title of the timeline item
     * Subtitle - The subtitle of the timeline item
 
-<iframe src="https://share.getcloudapp.com/BluNlz0E?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/BluNlz0E?embed=true" width="575" height="1240" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  __View:__
   
-<iframe src="https://share.getcloudapp.com/bLuG7ZpQ?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/bLuG7ZpQ?embed=true" width="575" height="360" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 -----------------------------------
  ### Wide Cards
@@ -657,10 +640,10 @@
       * CTA Text - The text of the bottom CTA (shows when Has CTA is enabled)  
       * CTA Link - The link of the bottom CTA (shows when Has CTA is enabled)
   
- <iframe src="https://share.getcloudapp.com/P8uYA7jB?embed=true" width="575" height="620" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/P8uYA7jB?embed=true" width="575" height="560" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
   
  
  __View:__
   
 
-<iframe src="https://share.getcloudapp.com/kpumjWJP?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/kpumjWJP?embed=true" width="575" height="360" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
