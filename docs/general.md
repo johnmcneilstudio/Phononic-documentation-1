@@ -29,7 +29,7 @@ The Site favicon can be either a GIF, PNG OR SVG and needs to be at least 512x51
 Of course you can use smaller resolution images like 128x128 or even 64x64 but this will make the logo more blurry and less high resolution for retina screens. 
 
 
-<iframe src="https://share.getcloudapp.com/QwuGp0GL?embed=true" width="440" height="550" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe src="https://share.getcloudapp.com/QwuGp0GL?embed=true" width="440" height="360" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
 
 
 ### Menus
@@ -38,12 +38,12 @@ Of course you can use smaller resolution images like 128x128 or even 64x64 but t
 Here you can set your different menus that are used across the site. Currently we use 5 different menus. 
 One is used in the header and it is named `Main Menu` and there are 4 others that are used at the 4 different columns in the footer of the site named `Footer Menu 1-4`
 
-<iframe src="https://share.getcloudapp.com/NQuvQrgd?embed=true" width="250" height="630" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe src="https://share.getcloudapp.com/NQuvQrgd?embed=true" width="250" height="780" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
 
 
 From this section you can create your different menus and you can also configure the menus from `Appearance -> Menus` as well.
 
-<iframe src="https://share.getcloudapp.com/llu4GYYL?embed=true" width="575" height="540" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/llu4GYYL?embed=true" width="575" height="380" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 From both within the Customizer options or Menus, you can set the order of the menu items or even delete, add or edit a menu item.
 
@@ -64,7 +64,7 @@ Currently we use 3 Widgetized areas:
 * Sitemap Page Widget Area (Used to add the different widgets used in the Sitemap page)
 * Max Mega Menu Widgets (This is where Max Mega Menu stores widgets that you have added to sub menus using the mega menu builder. You can edit existing widgets here, but new widgets must be added through the Mega Menu interface (under Appearance > Menus).)
 
-<iframe src="https://share.getcloudapp.com/YEudnoRx?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/YEudnoRx?embed=true" width="575" height="380" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 Please note that you can add pretty much everything there, from static text, images, menu items and other custom widgets.
 
@@ -80,7 +80,7 @@ Here you can find some useful docs on how to manage your WordPress Widgets:
 
 The only option inside this page is to set which page will be served as the Homepage. Currently it is set to the Homepage but if you decide to create a new homepage in the future and set this new page as your Homepage, just head to this section and choose the new page from the dropdown.
 
-<iframe src="https://share.getcloudapp.com/WnuEjJxj?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/WnuEjJxj?embed=true" width="575" height="780" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 ### Script Tags
@@ -128,7 +128,7 @@ If you wish to add more social networks, this must be done programmatically as a
 Please note that there is a checkbox on this section named `Show Social Media Icons` that means, even if you have your social media network links saved, these will only be visible at the footer of the site if you have this option checked.
 
  
-<iframe src="https://share.getcloudapp.com/X6uDwNvm?embed=true" width="300" height="600" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/X6uDwNvm?embed=true" width="300" height="780" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 ### Additional CSS

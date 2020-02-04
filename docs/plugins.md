@@ -39,7 +39,7 @@ This plugin is used to provide the framework to use in order to create all the c
 Here you can see all the available Field Groups (custom fields) used across the site
 
 
-<iframe src="https://share.getcloudapp.com/rRuLZkn9?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/rRuLZkn9?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 ------------------------------------
 ### Akismet Anti-Spam
@@ -59,11 +59,11 @@ https://docs.akismet.com/
 
 With this plugin, you can clone posts or pages.
  
- <iframe src="https://share.getcloudapp.com/04ug4JNG?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/04ug4JNG?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
 It can be extended to clone other Custom Post types as well or for specific User Roles only
 
-<iframe src="https://share.getcloudapp.com/Z4uw06qB?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/Z4uw06qB?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 ------------------------------------
@@ -83,7 +83,7 @@ https://cookielawinfo.com/faq
 
 Easily create web forms and manage form entries within the WordPress admin.
 
-<iframe src="https://share.getcloudapp.com/p9u5q8Qx?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/p9u5q8Qx?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 
 Here is an extensive documentation of the official plugin author:
@@ -107,7 +107,7 @@ An easy to use mega menu plugin. Due to the nature of WordPress Menus, we can't 
 This is where Max Mega Menu is used for.
 
 
-<iframe src="https://share.getcloudapp.com/P8uYAkOJ?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/P8uYAkOJ?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 Here you can find an extensive documentation for Max Mega Menu:
 
@@ -147,7 +147,7 @@ This plugin is being used to import Uberflip content as posts. This is to allow 
 
 WP Crontrol lets you view and control what's happening in the WP-Cron system. It is always good to control the WP-Cron system through this plugin. This will help you increase the site performance.
 
-<iframe src="https://share.getcloudapp.com/6quLq8Ox?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/6quLq8Ox?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 ------------------------------------
 ### WP Sitemap Page
@@ -163,7 +163,7 @@ This plugin is not active or used anymore in favor of our custom sitemap solutio
 
 The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more. This plugin handles all the SEO for your site.
 
-<iframe src="https://share.getcloudapp.com/rRuLZG9E?embed=true" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+<iframe src="https://share.getcloudapp.com/rRuLZG9E?embed=true" width="575" height="340" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
 
 Here you can find an extensive documentation on Yoast SEO:
 
