@@ -53,7 +53,7 @@
     * CTA - CTA that is added below the main text
  * CTA - CTA that is added below all blocks (optional)
  
- <iframe src="https://share.getcloudapp.com/z8unerYL?embed=true" width="300" height="770" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
+ <iframe src="https://share.getcloudapp.com/z8unerYL?embed=true" width="300" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true">              </iframe>
  
  
  __View:__
